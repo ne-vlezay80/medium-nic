@@ -8,8 +8,6 @@
 
 [Сообщить о недоступности DNS-сервера](https://github.com/mediumfoundation/medium-nic/issues/new)
 
-## Сервера доменных имён отдельных зон
-
 | IPv6 | Порт | Доменные зоны |
 |------|:----:|:-------------:|
 | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | 5353 | `.medium` |
