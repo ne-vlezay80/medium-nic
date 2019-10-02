@@ -10,5 +10,5 @@
 
 | IPv6 | Порт | Доменные зоны |
 |------|:----:|:-------------:|
-| `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | 53 | ![](https://img.shields.io/badge/medium-yellow.svg) ![](https://img.shields.io/badge/ygg-orange.svg) |
+| `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | 53 | ![](https://img.shields.io/badge/medium-yellow.svg) ![](https://img.shields.io/badge/ygg-green.svg) |
 | `200:5487:4a8d:d656:36b0:e7dc:2861:c637` | 53 | ![](https://img.shields.io/badge/dns-blueviolet.svg) ![](https://img.shields.io/badge/tube-red.svg) |
