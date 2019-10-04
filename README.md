@@ -4,7 +4,7 @@
 
 [README in English](README.en.md)
 
-# Medium NIC [![](https://img.shields.io/badge/Powered_by_Medium-555.svg](https://github.com/mediumfoundation)
+# Medium NIC [![](https://img.shields.io/badge/Powered_by_Medium-555.svg)](https://github.com/mediumfoundation)
 
 [Сообщить о недоступности DNS-сервера](https://github.com/mediumfoundation/medium-nic/issues/new)
 
